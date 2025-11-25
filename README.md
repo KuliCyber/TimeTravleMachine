@@ -1,4 +1,4 @@
-# 🕰️ Virtual Time Machine
+# 🕰️ Virtual Time Machine - KC Team
 
 Mesin penjelajah waktu virtual yang mengatasi semua batasan fisika melalui simulasi kuantum dan multiverse!
 
@@ -14,7 +14,7 @@ Mesin penjelajah waktu virtual yang mengatasi semua batasan fisika melalui simul
 
 ```bash
 # Clone repository
-git clone https://github.com/KuliCyber/TimeTravleMachine
+git clone https://github.com/KuliCyber/TimeTravel-KC
 
 # Masuk ke folder
 cd src
