@@ -17,7 +17,7 @@ Mesin penjelajah waktu virtual yang mengatasi semua batasan fisika melalui simul
 git clone https://github.com/KuliCyber/TimeTravleMachine
 
 # Masuk ke folder
-cd time-machine-project
+cd src
 
 # Jalankan program
-python src/simple_time_machine.py
+python src/time_machine.py
